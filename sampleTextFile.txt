@@ -1,4 +1,0 @@
-This is just a sample text file.
-
-text is ok, file is updating.
-[A[A
